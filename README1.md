@@ -1,4 +1,3 @@
-# RL-notes
 # Monte Carlo Methods in Reinforcement Learning
 
 ## What is Monte Carlo?
